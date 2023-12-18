@@ -1,6 +1,6 @@
 # ¡DeliveBridge! - Guía de Implementación en Google Cloud Platform (GCP)
 
-![Delivebridge](img/1234.png)
+![Delivebridge](img/logogif.gif)
 
 ¡Bienvenido al futuro de la entrega de comida a domicilio con Google Cloud Platform! ¡DeliveBridge! es una aplicación que revoluciona la experiencia de pedidos de comida a través de una infraestructura potente y escalable. Aquí tienes una guía detallada para implementar ¡DeliveBridge! en GCP.
 
@@ -26,6 +26,8 @@ Google Cloud Billing te permite gestionar formas de pago, garantizando una factu
 
 ### 7. Cloud Monitoring para el Monitoreo de la Aplicación
 Cloud Monitoring proporciona visibilidad sobre el rendimiento y el estado general de la aplicación, asegurando un funcionamiento óptimo[^6^].
+
+![Delivebridge](img/1234.png)
 
 ## ¡Actúa Ahora! 🚀
 
