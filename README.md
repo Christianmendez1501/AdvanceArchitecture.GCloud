@@ -38,6 +38,7 @@ Implementar ¡DeliveBridge! en GCP te coloca en el camino hacia el éxito en la 
 ---
 
 #### Citas:
-[^1^]: [Historia de Éxito - PedidosYa](https://cloud.google.com/customers/pedidosya?hl=es-419)
+
+[1]: [Historia de Éxito - PedidosYa](https://cloud.google.com/customers/pedidosya?hl=es-419)
 
 
