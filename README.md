@@ -1,6 +1,12 @@
 # ¡DeliveBridge🛵! - Guía de Implementación en Google Cloud Platform (GCP)
 
-![Delivebridge](img/logogif.gif)
+
+<!-- Mitad de la Página -->
+<div align="center">
+  <img src="img/logogif.gif" alt="Delivebridge Logo">
+  <h1>Infraestructura en Google Cloud Platform para DeliveBridge</h1>
+</div>
+
 
 ¡Bienvenido al futuro de la entrega de comida a domicilio con Google Cloud Platform! ¡DeliveBridge! es una aplicación que revoluciona la experiencia de pedidos de comida a través de una infraestructura potente y escalable. Aquí tienes una guía detallada para implementar ¡DeliveBridge 🛵! en GCP.
 
