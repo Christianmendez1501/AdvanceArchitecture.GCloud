@@ -1,7 +1,5 @@
 # ¡DeliveBridge🛵! - Guía de Implementación en Google Cloud Platform (GCP)
 
-
-<!-- Mitad de la Página -->
 <div align="center">
   <img src="img/logogif.gif" alt="Delivebridge Logo">
   <h1>Infraestructura en Google Cloud Platform para DeliveBridge</h1>
